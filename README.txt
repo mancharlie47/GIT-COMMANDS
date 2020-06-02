@@ -1,4 +1,4 @@
-
+ GIT COMMANDS ARE THE FOLLOWING
 git config
 git init
 git clone
@@ -18,8 +18,9 @@ git remote
 git push
 git pull
 git stash
-So, letís get started now!!
+So, let‚Äôs get started now!!
 
 Git Commands
 git config
-Usage: git config ñglobal user.name ì[name]î
+Usage: git config ‚Äìglobal user.name ‚Äú[name]‚Äù
+usage: git config --global user.email"[email]"
